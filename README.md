@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Modern Software Developer Yakesh Choudhery</h1>
 <h3 align="center"> Inspiring To Innovate</h3>
 # 💫 About Me:
+🔭 I am currently working on improving To Be SLOP <be>🤝 I’m looking for help with Modern Software Development<br>🌱 I’m currently learning - Software Devlopment| Artificial Narrow Intelligence (ANI)| UX/UI Design<br>💬 Ask me about - Inspiring To Innovate<br>📫 How to reach me - yakeshchoudhery08@gmail.com<br>👨‍💻 All of my projects are available - yakeshchoudhery.com<br>📝 I regularly write articles - Blog.yakeshchoudhery.com<br>📄 Know about my experiences - yakeshchoudhery.com/resume<br>⚡ Fun fact - I think Modern Developer is a Combination of Dev - AI - UI/UX# 💫 About Me:
 🔭 I am currently working on improving To Be SLOP <br>🤝 I’m looking for help with Modern Software Development<br>🌱 I’m currently learning - Software Devlopment| Artificial Narrow Intelligence (ANI)| UX/UI Design<br>💬 Ask me about - Inspiring To Innovate<br>📫 How to reach me - yakeshchoudhery08@gmail.com<br>👨‍💻 All of my projects are available - yakeshchoudhery.com<br>📝 I regularly write articles - Blog.yakeshchoudhery.com<br>📄 Know about my experiences - yakeshchoudhery.com/resume<br>⚡ Fun fact - I think Modern Developer is a Combination of Dev - AI - UI/UX
 
 
