@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakesh199&layout=compact&theme=dark" alt=yakesh199 />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yakesh199&theme=ocean-dark" alt="yakesh199" /></p>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
