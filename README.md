@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Modern Software Developer Yakesh Choudhery</h1>
 <h3 align="center"> Inspiring To Innovate</h3>
 <h2>💫 About Me:</h2>
-# 💫 About Me:
 🔭 I am currently working on a Full Stack Generative AI Developer (MERN)<br>🤝 I’m looking for help with Open Source Contribution<br>🌱 I’m currently learning - Machine Learning and the Czech Language (A2 Current)<br>💬 Ask me about - Inspiring to Innovate, Always Think About Quality Outcome.<br>📫 How to reach me - yakeshchoudhery08@gmail.com<br>📄 Know about my experiences - yakeshchoudhery.tech<br>⚡ Fun fact - Modern Developer = Soft_Dev(web) & UX/UI pro + Gen Ai(RAG & Agentic AI)
 
 
