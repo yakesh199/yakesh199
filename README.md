@@ -1,21 +1,260 @@
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Yakesh Choudhery!
 
-<h1 align="center">Hi 👋, I'm Modern Software Developer Yakesh Choudhery</h1>
-<h3 align="center"> Inspiring To Innovate</h3>
-<h2>💫 About Me:</h2>
-🔭 I am currently working on a Full Stack Generative AI Developer (MERN)<br>🤝 I’m looking for help with Open Source Contribution<br>🌱 I’m currently learning - Machine Learning and the Czech Language (A2 Current)<br>💬 Ask me about - Inspiring to Innovate, Always Think About Quality Outcome.<br>📫 How to reach me - yakeshchoudhery08@gmail.com<br>📄 Know about my experiences - yakeshchoudhery.tech<br>⚡ Fun fact - Modern Developer = Soft_Dev(web) & UX/UI pro + Gen Ai(RAG & Agentic AI)
+<div align="center">
+  
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full%20Stack%20AI%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Inspiring%20to%20Innovate%20|%20MERN%20Stack%20Expert&descAlignY=51&descAlign=50"/>
 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+AI+Developer;🤖+Generative+AI+Specialist;💻+MERN+Stack+Expert;🌟+Open+Source+Contributor;🎯+Quality+First+Mindset;🇨🇿+Learning+Czech+Language" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-**Languages & Frameworks** : ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-<br>
-<br>
-**UX/UI Design** : ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-<br>
-<br>
-**MLOPS** :  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br>
-# 📊 GitHub Stats:
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakesh199&layout=compact&theme=dark" alt=yakesh199 />
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Animated Snake eating contributions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
+---
+
+## 🌟 About Me - The Digital Architect
+
+<div align="center">
+
+```ascii
+    ╔══════════════════════════════════════════════════════════╗
+    ║  🎯 Mission: Building AI-Powered Solutions That Matter   ║
+    ║  🚀 Vision: Bridging Human Creativity with AI Innovation ║  
+    ║  💫 Values: Quality, Innovation, Continuous Learning     ║
+    ╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Current Focus
+```javascript
+const currentWork = {
+  role: "Full Stack AI Developer",
+  stack: ["MERN", "Python", "AI/ML"],
+  projects: [
+    "🤖 RAG-based Chatbots",
+    "🌐 AI-Powered Web Apps", 
+    "📊 Data Visualization Tools",
+    "🔧 Agentic AI Systems"
+  ],
+  dailyGoals: "Build something amazing!"
+};
+```
+
+</td>
+<td width="50%">
+
+### 🌱 Learning Journey
+```javascript
+const learning = {
+  languages: ["Czech 🇨🇿 (A2 Level)"],
+  tech: [
+    "Advanced Machine Learning",
+    "LangChain & Vector DBs",
+    "Cloud Architecture",  
+    "Microservices Design"
+  ],
+  philosophy: "Never stop growing! 📈"
+};
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal - My Digital Superpowers
+
+<div align="center">
+
+### 🎨 Frontend Magic
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### ⚡ Backend Power
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
+### 🗄️ Database & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+### 🤖 AI & ML Arsenal
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-FF6B6B?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics - The Numbers Game
+
+<div align="center">
+
+<!-- GitHub Stats with Custom Theme -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yakesh199&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yakesh199&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=yakesh199&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF6B6B&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+
+</div>
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yakesh199/yakesh199/output/github-contribution-grid-snake-dark.svg" alt="3D Contributions"/>
+</div>
+
+---
+
+## 🏆 Achievement Gallery
+
+<div align="center">
+
+<!-- Trophy Case -->
+<img src="https://github-profile-trophy.vercel.app/?username=yakesh199&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophy Case"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yakesh199&custom_title=Yakesh's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects - My Digital Creations
+
+<div align="center">
+
+<!-- Project Cards with custom styling -->
+<a href="https://github.com/yakesh199/ai-chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yakesh199&repo=ai-chatbot&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="AI Chatbot"/>
+</a>
+
+<a href="https://github.com/yakesh199/mern-ecommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yakesh199&repo=mern-ecommerce&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="MERN E-commerce"/>
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+### Let's Build Something Amazing Together! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yakeshchoudhery)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakeshchoudhery08@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yakeshchoudhery.tech)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yakeshchoudhery)
+
+<!-- Visitor Counter with Style -->
+<img src="https://komarev.com/ghpvc/?username=yakesh199&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 💫 Fun Zone - The Human Side
+
+<div align="center">
+
+```
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║  🎯 Philosophy: "Inspiring to Innovate, Quality First!"       ║
+    ║  🌟 Superpower: Turning Coffee into Code ☕ → 💻             ║
+    ║  🎨 Hobby: Creating Beautiful UIs that Users Love            ║ 
+    ║  🌍 Goal: Make Technology More Human & Accessible            ║
+    ║  🚀 Fun Fact: Modern Dev = Web + UX/UI + AI Magic!          ║
+    ╚═══════════════════════════════════════════════════════════════╝
+```
+
+### 🎮 GitHub Metrics Game
+
+<details>
+<summary>📈 Click to Expand Detailed Stats</summary>
+
+<div align="center">
+
+<!-- Detailed Metrics -->
+<img src="https://metrics.lecoq.io/yakesh199?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&discussions=1&followup=1&lines=1&traffic=1&people=1&code=1&activity=1&repositories=1&introduction=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&discussions.categories=true&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.timestamps=false&activity.filter=all&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&introduction.title=true&config.timezone=Asia%2FKolkata"/>
+
+</div>
+
+</details>
+
+</div>
+
+---
+
+## 🔥 Latest Blog Posts & Activities
+
+<!-- Blog Posts from DEV.to -->
+<div align="center">
+
+### 📝 Recent Thoughts & Tutorials
+
+[![Yakesh's DEV Profile](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yakesh199)
+
+</div>
+
+---
+
+## 🎉 Support My Work
+
+<div align="center">
+
+If you find my projects helpful, consider supporting them! ⭐
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yakesh199)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yakesh199)
+
+### 💝 Thank you for visiting! Let's create something extraordinary together!
+
+</div>
+
+<!-- Footer with Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+<!-- Hidden ASCII Art Easter Egg -->
+<!--
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣤⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⠟⠉⠉⠉⠉⠉⠉⠉⠙⠻⢶⣄⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣷⡀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀AI DEV⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠃⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠋⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣶⣤⣤⣤⣤⣤⣤⣶⠟⠋⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-->
