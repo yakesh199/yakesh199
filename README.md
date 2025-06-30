@@ -218,3 +218,5 @@ yakesh.activate();
   💎 **Engineered with passion • Powered by infinite curiosity • Inspired by endless possibilities** 💎
   
   *© 2025 Yakesh Choudhery - Where imagination meets implementation*
+  
+</div>
