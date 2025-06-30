@@ -16,18 +16,5 @@
 <br>
 # 📊 GitHub Stats:
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakesh199&layout=compact&theme=dark" alt=yakesh199 />
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yakesh choudhery&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yakesh choudhery&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=yakesh choudhery&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
