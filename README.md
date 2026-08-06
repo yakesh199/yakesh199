@@ -72,14 +72,6 @@ I'm a **Full Stack Developer** specializing in the **MERN stack** with a strong 
 
 ---
 
-## 💝 Support
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yakesh199)
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yakesh199)
-
-</div>
 
 ---
 
