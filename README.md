@@ -12,14 +12,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yakesh199&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&icon_color=7c3aed" height="165"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yakesh199&layout=compact&langs_count=10&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&icon_color=7c3aed" height="165"/>
 
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yakesh199&theme=synthwave&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF" height="165"/>
-
 <img alt="Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yakesh199&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=7c3aed&point=f0f6fc&area=true&hide_border=true&area_color=1f2937" width="90%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yakesh199&style=flat-square&color=58a6ff&label=Profile+Views)
 
@@ -61,16 +56,6 @@ I'm a **Full Stack Developer** specializing in the **MERN stack** with a strong 
 
 **Cloud & DevOps**
 ![Cloud Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,vercel,netlify&theme=dark&perline=10)
-
----
-
-## 🌱 Currently Learning
-
-| Skill | Progress |
-|---|---|
-| Czech Language (A2 → B1) | ▓▓▓▓▓▓▓▓░░ 80% |
-| Advanced AI / ML | ▓▓▓▓▓▓▓▓▓▓ 100% |
-| Cloud Architecture | ▓▓▓▓▓▓▓▓░░ 85% |
 
 ---
 
