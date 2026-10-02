@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakeshchoudhery/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakeshchoudhery08@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](yakesh.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yakesh.netlify.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=yakesh199&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/yakesh199)
 
 </div>
